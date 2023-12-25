@@ -75,9 +75,9 @@
 
 Вы можете связаться со мной по электронной почте [ukg1683@gmail.com]
 
-<a href="[https://www.instagram.com/ve5tram/?hl=ru]">
- <img align="left" alt="ve5tram Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="[https://www.instagram.com/ve5trum/?hl=ru]">
+ <img align="left" alt="ve5trum Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/aldiyar-yelgazinov-41493a232/)">
-  <img align="left"alt="ve5tram  LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left"alt="ve5trum  LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
